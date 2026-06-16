@@ -1,4 +1,4 @@
- Apple (🍎) 5 MacBook Tricks That Make Life Easier
+ 🍎 5 MacBook Tricks That Make Life Easier
 
 1. Press ⌘ + Space to open Spotlight and instantly find apps, files, or even do quick calculations.
 
